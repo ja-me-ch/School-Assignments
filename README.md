@@ -1,2 +1,3 @@
 # School-Assignments
-Past school assignments.
+
+-Assignment_1_Delegates : Demonstration of delegates in C# and WPF using XAML.
