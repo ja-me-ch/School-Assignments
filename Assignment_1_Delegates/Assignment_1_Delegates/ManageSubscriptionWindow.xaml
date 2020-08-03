@@ -1,0 +1,77 @@
+﻿<Window x:Class="Assignment_1_Delegates.ManageSubscriptionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment_1_Delegates"
+        mc:Ignorable="d"
+        Title="ManageSubscriptionWindow" Height="300" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <CheckBox x:Name="chbx_EmailNotif"
+                  Grid.Row="1"
+                  Grid.Column="1"
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"/>
+        <CheckBox x:Name="chbx_MobileNotif"
+                  Grid.Row="3"
+                  Grid.Column="1"
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"/>
+        <TextBlock Text="Notification Sent by Email:"
+                   Grid.Column="2"
+                   Grid.Row="1"
+                   FontSize="20"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"/>
+        <TextBlock Text="Notification Sent by SMS:"
+                   Grid.Column="2"
+                   Grid.Row="3"
+                   FontSize="20"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"/>
+        <TextBox x:Name="txbx_Email"
+                 Grid.Row="1"
+                 Grid.Column="3"
+                 Height="24"
+                 Width="Auto"
+                 VerticalAlignment="Center"/>
+        <TextBox x:Name="txbx_Mobile"
+                 Grid.Row="3"
+                 Grid.Column="3"
+                 Height="24"
+                 Width="Auto"
+                 VerticalAlignment="Center"/>
+        <Button x:Name="btn_SaveNotificationSettings"
+                Grid.Row="4"
+                Grid.Column="2"
+                Content="Save"
+                Width="75" Click="btn_SaveNotificationSettings_Click"/>
+        <!--<Button x:Name="btn_Unsubscribe"
+                Grid.Row="4"
+                Grid.Column="3"
+                Content="Unsubscribe"
+                Width="80"/>-->
+        <Button x:Name="btn_Cancel"
+                Grid.Row="4"
+                Grid.Column="3"
+                Content="Cancel"
+                Width="50" Click="btn_Cancel_Click"/>
+    </Grid>
+</Window>
