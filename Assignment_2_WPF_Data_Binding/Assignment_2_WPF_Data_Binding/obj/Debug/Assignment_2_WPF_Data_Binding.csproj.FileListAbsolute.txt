@@ -1,0 +1,15 @@
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\bin\Debug\Assignment_2_WPF_Data_Binding.exe.config
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\bin\Debug\Assignment_2_WPF_Data_Binding.exe
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\bin\Debug\Assignment_2_WPF_Data_Binding.pdb
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding.csprojAssemblyReference.cache
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\MainWindow.g.cs
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\App.g.cs
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding_MarkupCompile.cache
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding_MarkupCompile.lref
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\MainWindow.baml
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding.g.resources
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding.Properties.Resources.resources
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding.csproj.GenerateResource.cache
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding.csproj.CoreCompileInputs.cache
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding.exe
+C:\Users\JC\source\repos\Assignment_2_WPF_Data_Binding\Assignment_2_WPF_Data_Binding\obj\Debug\Assignment_2_WPF_Data_Binding.pdb
