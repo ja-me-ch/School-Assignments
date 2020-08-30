@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_3_EFCore", "Assignment_3_EFCore\Assignment_3_EFCore.csproj", "{E5DD4BCD-1A72-4A56-B2E8-98400D066AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballLibrary", "BaseballLibrary\BaseballLibrary.csproj", "{4BBDD8F3-00D9-4450-8466-AA8E201C04FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DD4BCD-1A72-4A56-B2E8-98400D066AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DD4BCD-1A72-4A56-B2E8-98400D066AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DD4BCD-1A72-4A56-B2E8-98400D066AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DD4BCD-1A72-4A56-B2E8-98400D066AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBDD8F3-00D9-4450-8466-AA8E201C04FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBDD8F3-00D9-4450-8466-AA8E201C04FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBDD8F3-00D9-4450-8466-AA8E201C04FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBDD8F3-00D9-4450-8466-AA8E201C04FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87884201-AA6F-4254-AE87-E99CC8532C25}
+	EndGlobalSection
+EndGlobal

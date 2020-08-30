@@ -1,0 +1,15 @@
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\bin\Debug\Assignment_3_LINQ.exe.config
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\bin\Debug\Assignment_3_LINQ.exe
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\bin\Debug\Assignment_3_LINQ.pdb
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ.csprojAssemblyReference.cache
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\MainWindow.g.cs
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\App.g.cs
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ_MarkupCompile.cache
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ_MarkupCompile.lref
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\MainWindow.baml
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ.g.resources
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ.Properties.Resources.resources
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ.csproj.GenerateResource.cache
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ.exe
+C:\Users\JC\source\repos\Assignment_3_LINQ\Assignment_3_LINQ\obj\Debug\Assignment_3_LINQ.pdb
